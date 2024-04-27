@@ -1,6 +1,7 @@
 [package]
 name = "move_coin"
-edition = "2024.beta" # edition = "legacy" to use legacy (pre-2024) Move
+edition = "2024.beta"                                                               # edition = "legacy" to use legacy (pre-2024) Move
+published-at = "0x4baaeb6b4f64c7b989f22781309cd9b31fc1b1b3e44395c8b435027d79ef1b14"
 # license = ""           # e.g., "MIT", "GPL", "Apache 2.0"
 # authors = ["..."]      # e.g., ["Joe Smith (joesmith@noemail.com)", "John Snow (johnsnow@noemail.com)"]
 
